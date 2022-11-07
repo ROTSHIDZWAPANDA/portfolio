@@ -18,17 +18,17 @@ export default function Home() {
         </div>
         <h2>ABOUT ME</h2>
 
-        <p>My name is Phandavhudzi Rotshidzwa, and my portfolio is a representation of Static application using React on 
-           why I want to be a developer at SovTech. I am a 3rd year student doing Computer science at university of Limpopo.</p>
+        <p>My name is Phandavhudzi Rotshidzwa, and my portfolio is a representation of Static application using Next.js on 
+           why I want to be a developer at SovTech. I am a final year student doing Computer science at university of Limpopo.</p>
 
         <h5>Projects I did so far as a Final year student at University of Limpopo</h5>
 
-        <p>My groupmates and I did a project namely Pageant Locater. The app was for model and pageant organizers
-           to be able to be able to interact in a simple and safer way as nowadays models are scams and consist of fake pageants. 
+        <p>My groupmates and I did a project named Pageant Locater. The app was for models and pageant organizers
+           to be able to be able to interact in a simple and safer way as nowadays models are scammed by fake pageants. 
            Tools we used to code this app was Android studio and KOTLIN. In addition, XML was used for Front-end.</p>
     
-           <p>Secondly, I joined Limpopo first Hackathon competition that was hosted by TUT. We had an idea of creating an app which a patient would walk with a medical record. Target market was public hospitals as private hospitals have them already.
-           Materials that were used to create the app is JAVA and the prototype used for the app was FIGMA AWS AMPLIFIER.
+           <p>Secondly, I joined first Limpopo Hackathon competition that was hosted by TUT. We had an idea of creating an app which a patient walks with a full medical record. Target market was public hospitals.
+           Materials that were used to create the app is JAVA and we did prototype  for the app with FIGMA AWS AMPLIFIER.
            The competition occurred for full 3 days without sleeping. Throughout the whole competition I learned a lot as I was doing something I love, which is software development.
           </p>
         <h2>HOBBIES</h2>
