@@ -45,7 +45,7 @@ export default function Home() {
         <h2>THE REASON WHY I WANT TO BE A DEVELOPER AT sovTech</h2>
 
 
-        <p> The reason why i want to be a software developer at sovTech is that as a student who is about to graduate and i believe this graduate job opportunity will
+        <p> The reason why i want to be a software developer at sovTech is that as a student who is about to graduate, i believe this graduate job opportunity will
           allow me to apply what ive learned at work place.As im a hard worker, a person who have passion in coding, great team player and a person who is willing to learn
           i believe that ive a capacity to become best sovTech software developer given a chance.</p>
         <p>Given that im already familier with sovTech stacks i can fit in so well.</p>
