@@ -7,7 +7,7 @@ import Head from 'next/head'
 export default function Home() {
   return (
     <><Head>
-      <title>PHANDAVHUDZI ROTSHIDZWA | HomePage</title>
+      <title>HomePage</title>
 
     </Head><nav>
     
@@ -18,37 +18,30 @@ export default function Home() {
         </div>
         <h2>ABOUT ME</h2>
 
-        <p>My name is phandavhudzi rotshidzwa.im a final year student at university of limpopo doing computer science.</p>
+        <p>My name is Phandavhudzi Rotshidzwa, and my portfolio is a representation of Static application using React on 
+           why I want to be a developer at SovTech. I am a 3rd year student doing Computer science at university of Limpopo.</p>
 
-        <h5>FINAL YEAR PROJECT</h5>
+        <h5>Projects I did so far as a Final year student at University of Limpopo</h5>
 
-        <p>During my final year i did a project with my groupmates.The name of the project was PAGEANT LOCATER,
-          it was an app for model and pageant organisers to be able to interact simply and safely as lot of models
-          undergoes lot scams of fake pageants.We coded the app using android studio and KOTLIN as a backend language
-          and XML for frount end.</p>
-
-
-        <h5>HACKATHON</h5>
-
-        <p>Again in my final year i joined limpopo first hackthon competition hosted by TUT and our idea was to create an app
-          where a patient walks with a medical record and the target market was public hospitals as private hospitals have it
-          already.</p>
-
-        <p>The language we used was JAVA and the prototype of the app we did it with FIGMA AWS AMPLIFIER</p>
-
-
-        <p>The competition happenned for 3 days without sleeping and through that i learned a lot about software development and i enjoyed.</p>
+        <p>My groupmates and I did a project namely Pageant Locater. The app was for model and pageant organizers
+           to be able to be able to interact in a simple and safer way as nowadays models are scams and consist of fake pageants. 
+           Tools we used to code this app was Android studio and KOTLIN. In addition, XML was used for Front-end.</p>
+    
+           <p>Secondly, I joined Limpopo first Hackathon competition that was hosted by TUT. We had an idea of creating an app which a patient would walk with a medical record. Target market was public hospitals as private hospitals have them already.
+           Materials that were used to create the app is JAVA and the prototype used for the app was FIGMA AWS AMPLIFIER.
+           The competition occurred for full 3 days without sleeping. Throughout the whole competition I learned a lot as I was doing something I love, which is software development.
+          </p>
         <h2>HOBBIES</h2>
 
         <p>chess url: <Link href={'https://lichess.org/@/Rotshidzwa'}>https://lichess.org/@/Rotshidzwa</Link></p>
 
-        <h2>THE REASON WHY I WANT TO BE A DEVELOPER AT sovTech</h2>
+        <h2>THE REASON WHY I WANT TO BE A DEVELOPER AT SOVTECH</h2>
 
 
-        <p> The reason why i want to be a software developer at sovTech is that as a student who is about to graduate, i believe this graduate job opportunity will
-          allow me to apply what ive learned at work place.As im a hard worker, a person who have passion in coding, great team player and a person who is willing to learn
-          i believe that ive a capacity to become best sovTech software developer given a chance.</p>
-        <p>Given that im already familier with sovTech stacks i can fit in so well.</p>
+        <p> The reason why I want to be a software developer at SovTech is because I have worked hard to develop skills that are relevant to this industry and because this
+            type of work brings me personal satisfaction.I've gained a lot of practical experience throughout my studying at University of UL and am hoping to learn more 
+           at SovTech as it is one of the biggest company. I've become intimately familiar with several coding languages and participated in coding challenge.</p>
+        
 
         <p> Thank you</p>
 
